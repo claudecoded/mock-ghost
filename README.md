@@ -71,7 +71,7 @@ graph TD
 
 ## 🤝 Contributing
 
-We love collaborative optimization enhancements! Want to implement body validator parsers checks, SQLite runtime data states caches, or add custom fake fields parameters?
+I don't care much about getting famous on GitHub, but if you want to improve this repo, you are welcome. What about to implement body validator parsers checks, SQLite runtime data states caches, or add custom fake fields parameters?
 
 1. Fork this Repository
 2. Add your custom generation schemas logic inside `generateMockValue()` mapping inside `mock_ghost.js`
