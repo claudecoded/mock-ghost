@@ -1,0 +1,19 @@
+{
+  "/api/v1/users": {
+    "id": "uuid",
+    "name": "string",
+    "email": "email",
+    "is_active": "boolean",
+    "created_at": "timestamp"
+  },
+  "/api/v1/users/:id": {
+    "id": "uuid",
+    "name": "string",
+    "profile_views": "number"
+  },
+  "/api/v1/products": {
+    "items": "string[]",
+    "total_count": "number",
+    "synced": "boolean"
+  }
+}
